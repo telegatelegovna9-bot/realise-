@@ -2,7 +2,7 @@ aiohttp==3.10.10
 APScheduler==3.10.4
 matplotlib==3.9.2
 mplfinance==0.12.10b0
-numpy==2.1.2
+numpy==1.26.4
 pandas==2.2.3
 python-telegram-bot==21.6
 pytz==2024.2
@@ -19,3 +19,4 @@ urllib3==2.5.0
 websockets==15.0.1
 
 yarl==1.22.0
+
